@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ABEL_1202154155_MODUL2</string>
+    <string name="nothing_selected" />
+
+    <string-array name="labels_array">
+        <item></item>
+        <item>MEJA1</item>
+        <item>MEJA2</item>
+        <item>MEJA3</item>
+
+    </string-array>
+
+</resources>
